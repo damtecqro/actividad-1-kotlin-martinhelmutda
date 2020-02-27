@@ -1,4 +1,4 @@
-package com.test.tarea1
+package com.m5c.tarea1
 
 import org.junit.Test
 
